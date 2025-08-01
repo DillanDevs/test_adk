@@ -44,6 +44,12 @@ Test_Alphi/
 
 Esta es la forma más sencilla de ejecutar el proyecto, ya que Docker se encarga de todas las dependencias y configuraciones.
 
+#### 1. Clonar el repositorio
+```bash
+git clone https://github.com/DillanDevs/test_adk.git
+cd Test_Alphi
+```
+
 #### 2. Crear archivo de variables de entorno
 
 Crear un archivo `.env` con el siguiente contenido:
